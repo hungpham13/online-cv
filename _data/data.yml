@@ -13,9 +13,9 @@ sidebar:
 
     # Sidebar links
     email: hung.pt194437@sis.hust.edu.vn
-    phone: 097 116 9255
+    phone: (+84) 97 116 9255
     citizenship:
-    website: https://hungpham13.github.io/online-cv/ #do not add http://
+    website: hungpham13.github.io/online-cv/ #do not add http://
     linkedin:
     xing:
     github: hungpham13
@@ -47,7 +47,7 @@ sidebar:
         link:
 
 # career-profile:
-#     title: Career Profile
+#     title: Area of Interest
 #     summary: |
 #       Summarise your career here lorem ipsum dolor sit amet, consectetuer
 #       adipiscing elit. You can [download this free resume/CV template here]().
