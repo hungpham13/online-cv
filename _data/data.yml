@@ -128,7 +128,8 @@ education:
 #           - Bullet point
 projects:
     title: Projects
-    intro: > You can see the details of the projects by clicking on the project name
+    intro: > 
+        You can see the details of the projects by clicking on the project name
 
     assignments:
       - title: Face mask detection using Faster R-CNN and YOLOv5
@@ -183,7 +184,8 @@ projects:
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency can
+    title: Skills &amp; Proficiency
+
     toolset:
       - name: Python & Pytorch
         level: 85%
