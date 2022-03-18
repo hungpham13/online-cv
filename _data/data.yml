@@ -134,7 +134,7 @@ projects:
     assignments:
       - title: Face mask detection using Faster R-CNN and YOLOv5
         link: "https://github.com/hungpham13/Face-mask-detection"
-        tagline: "Apply two famous deep learning algorithms in object detection problems to detect correct, incorrect and non- mask wearers automatically, with focus on improving the accuracy and detection speed towards real-time detection.
+        tagline: "Apply two famous deep learning algorithms in object detection problems to detect correct, incorrect and non- mask wearers automatically, with focus on improving the accuracy and detection speed towards real-time detection."
 
       - title: Shopee Products Matching Challenge
         link: "https://github.com/calibretaliation/DeepLearning20211"
