@@ -49,9 +49,8 @@ sidebar:
 career-profile:
     title: Current Interest
     summary: |
-      Offline Continuous Handwriting Recoginition for Vietnamese.
-        - Attention-based Transformer
-        - OrigamiNet
+      Make responsive AI-driven website application
+        - AI Music recommender system
 education:
     - degree: UG in DataScience & AI
       university: Hanoi University of Science and Technology
@@ -129,6 +128,9 @@ projects:
         You can see the details of the projects by clicking on the project name
 
     assignments:
+      - title: Hust MilkTea Store Management Application
+        link: "https://github.com/DSAI-K64-20212-Project/Software-Engineering"
+        tagline: "Building a store management system, managing raw materials, revenue, and operating costs."
       - title: Face mask detection using Faster R-CNN and YOLOv5
         link: "https://github.com/hungpham13/Face-mask-detection"
         tagline: "Apply two famous deep learning algorithms in object detection problems to detect correct, incorrect and non- mask wearers automatically, with focus on improving the accuracy and detection speed towards real-time detection."
@@ -184,6 +186,12 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
+      - name: HTML, CSS, Javascript, ReactJS
+        level: 70%
+        
+      - name: Figma, Adobe Photoshop, Adobe Illustrator
+        level: 85%
+          
       - name: Python & Pytorch
         level: 85%
 
