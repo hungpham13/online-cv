@@ -68,12 +68,14 @@ experiences:
     - role: Frontend Developer & Designer
       time: 2021 - Present
       company: Osemnai
-      details: Develop OCR web application using Typescript, React, Jotai, React-query. 
+      details: |
+      Develop OCR web application using Typescript, React, Jotai, React-query. 
       The application allows user to sign up, login, create recognition process, upload images, extract and edit information from input image.
     - role: Intern Researcher
         time: 2021 - Present
         company: Intelligent Software Engineering Lab - BKAI
-        details: Develop algorithms to solve the problem of data discretization in Big Data. 
+        details: |
+        Develop algorithms to solve the problem of data discretization in Big Data. 
         The algorithm is applied to calculate the PSI of customer credit score distributions by days. 
         If the PSI for 2 consecutive days is high, bank manager can detect the abnormal event that make a large shift for population distribution.
         
