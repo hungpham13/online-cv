@@ -66,6 +66,7 @@ education:
 
 experiences:
     - role: Frontend Developer & Designer
+      link: http://125.212.238.157:3001/
       time: 2021 - 2022
       company: Osemnai
       details: |
@@ -73,7 +74,8 @@ experiences:
         The application allows user to sign up, login, create recognition process, upload images, extract and edit information from input image.
  
     - role: Backend Developer
-      time: 2022 - now
+      time: 2022 - Present
+      link: https://github.com/hungpham13/TestDotnetAPI
       company: VTC
       details: |
         Develop Restful API for VStream - an application for entertainment company to make event. 
