@@ -73,8 +73,8 @@ experiences:
         Develop OCR web application using Typescript, React, Jotai, React-query. 
         The application allows user to sign up, login, create recognition process, upload images, extract and edit information from input image.
  
-    - role: Backend Developer
-      time: 2022 - Present
+    - role: Backend Intern
+      time: 2022 - 2023
       link: https://github.com/hungpham13/TestDotnetAPI
       company: VTC
       details: |
@@ -191,7 +191,7 @@ skills:
       - name: SQL
         level: 80%
 
-      - name: Java
+      - name: C#, .Net, Java
         level: 80%
 
 footer: >
