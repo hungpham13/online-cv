@@ -71,14 +71,16 @@ experiences:
       details: |
         Develop OCR web application using Typescript, React, Jotai, React-query. 
         The application allows user to sign up, login, create recognition process, upload images, extract and edit information from input image.
+ 
     - role: Backend Developer
       time: 2022 - now
       company: VTC
-      details: Develop Restful API for VStream - an application for entertainment company to make event. 
-      The systems allows login, sign up, user management, event management, attendance management for each event, attendance validation by generating QR Code. 
-      Using .Net C# with SQL Server
+      details: |
+        Develop Restful API for VStream - an application for entertainment company to make event. 
+        The systems allows login, sign up, user management, event management, attendance management for each event, attendance validation by generating QR Code. 
+        Using .Net C# with SQL Server
 
-- role: Intern Researcher
+    - role: Intern Researcher
       time: 2021 - Present
       company: Intelligent Software Engineering Lab - BKAI
       details: |
