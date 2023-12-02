@@ -12,19 +12,19 @@ sidebar:
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: hung.pt194437@sis.hust.edu.vn
+  email: tonic1307@gmail.com
   phone: (+84) 97 116 9255
   citizenship:
-  website: hungpham13.github.io/online-cv/ #do not add http://
+  # website: hungpham13.github.io/online-cv/ #do not add http://
   linkedin:
   xing:
   github: hungpham13
-  telegram: huwngpham # add your nickname without '@' sign
+  # telegram: huwngpham # add your nickname without '@' sign
   gitlab:
   bitbucket:
   twitter: # '@webjeda'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars:
+  codewars: hungpham13
   goodreads: # Number-Username, e.g. 123456-alandoe
   pdf:
 
