@@ -3,7 +3,8 @@
 #
 
 sidebar:
-  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  position: right # position of the sidebar : left or right
+  about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
@@ -11,36 +12,40 @@ sidebar:
   tagline: AI Engineer
   avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
-  # Sidebar links
-  email: tonic1307@gmail.com
-  phone: (+84) 97 116 9255
-  citizenship:
-  # website: hungpham13.github.io/online-cv/ #do not add http://
-  linkedin:
-  xing:
-  github: hungpham13
-  # telegram: huwngpham # add your nickname without '@' sign
-  gitlab:
-  bitbucket:
-  twitter: # '@webjeda'
-  stack-overflow: # Number/Username, e.g. 123456/alandoe
-  codewars: hungpham13
-  goodreads: # Number-Username, e.g. 123456-alandoe
-  pdf:
+    # Sidebar links
+    email: hello@webjeda.com
+    phone: 012 345 6789
+    citizenship:
+    website: blog.webjeda.com #do not add http://
+    linkedin: alandoe
+    xing: alandoe
+    github: sharu725
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: http://www.africau.edu/images/default/sample.pdf
 
   languages:
-    - idiom: English
-      level: Intermediate
+      title: Languages
+      info:
+        - idiom: English
+          level: Intermediate
 
-    - idiom: Vietnamese
-      level: Native
+        - idiom: Vietnamese
+          level: Native
 
   interests:
-    - item: Large Language Model
-      link:
+    title: Interests
+    info:
+      - item: Large Language Model
+        link:
 
-    - item: MLOps System
-      link:
+      - item: MLOps System
+        link:
 
     # - item:
     #   link:
@@ -83,29 +88,6 @@ experiences:
       Develop algorithms to solve the problem of data discretization in Big Data. 
       The algorithm is applied to calculate the PSI of customer credit score distributions by days. 
       If the PSI for 2 consecutive days is high, bank manager can detect the abnormal event that make a large shift for population distribution.
-
-#     - role: Senior Software Engineer
-#       time: 2014 - 2015
-#       company: Google, London
-#       details: |
-#         Describe your role here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#         Cum sociis natoque penatibus et magnis dis parturient montes,
-#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#         pellentesque eu, pretium quis, sem.
-#           - Bullet point
-#           - Bullet point
-#     - role: UI Developer
-#       time: 2012 - 2014
-#       company: Amazon, London
-#       details: |
-#         Describe your role here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-#         Cum sociis natoque penatibus et magnis dis parturient montes,
-#         nascetur ridiculus mus. Donec quam felis, ultricies nec,
-#         pellentesque eu, pretium quis, sem.
-#           - Bullet point
-#           - Bullet point
 projects:
   title: Projects
   intro: >
@@ -144,16 +126,16 @@ projects:
       tagline: "Using Google OR-tools and self-implement optimizations to solve a problem of timetable arragement for classes."
 
 # publications:
-#     title: Publications
-#     intro: |
-#       You can list your publications in this section. Lorem ipsum dolor sit
-#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#       bibendum fringilla a eu lectus.
-#     papers:
-#       - title: The Art of Computer Programming
-#         link: "#"
-#         authors: Donald E. Knuth
-#         conference: Addison-Wesley, 1968
+#   title: Publications
+#   intro: |
+#     You can list your publications in this section. Lorem ipsum dolor sit
+#     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#     bibendum fringilla a eu lectus.
+#   papers:
+#     - title: The Art of Computer Programming
+#       link: "#"
+#       authors: Donald E. Knuth
+#       conference: Addison-Wesley, 1968
 
 #       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
 #         link: "#"
@@ -164,6 +146,25 @@ projects:
 #         link: "#"
 #         authors: Edgar T. Irons
 #         conference: "Comm. ACM 4 (1961), 51–55"
+
+# oss:
+#     title: OSS Contributions
+#     intro: >
+#       You can list your open source software contributions in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     contributions:
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 skills:
   title: Skills &amp; Proficiency
