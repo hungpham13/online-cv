@@ -36,24 +36,24 @@ sidebar:
       level: Native
 
   interests:
-    - item: Learning English
+    - item: Large Language Model
       link:
 
-    - item: Music
+    - item: MLOps System
       link:
 
-    - item: Reading
-      link:
+    # - item:
+    #   link:
 
 career-profile:
   title: Current Interest
   summary: |
-    Make responsive AI-driven website application
-      - AI Music recommender system
+    Researching and developing Vietnamese Large Language Model.
+      -
 education:
-  - degree: Bachelor in DataScience & AI
+  - degree: BSc in DataScience & AI
     university: Hanoi University of Science and Technology
-    time: 2019 - 2022
+    time: 2019 - 2023
     details: |
       I have graduated from Hanoi University of Science and Technology with a Bachelor's degree in Data Science and Artificial Intelligence.
       I learned about machine learning, deep learning, data mining, data visualization, and software engineering. I also have experience in working with real-world data and solving real-world problems.
